@@ -1,7 +1,6 @@
 # 🌐 3D Interactive Website
 
-This is a modern 3D interactive landing page built using React, Tailwind CSS, and Three.js.
-
+This is a modern 3D interactive landing page built using React and Tailwind CSS
 ## 🚀 Features
 - Interactive 3D elements
 - Smooth animations
