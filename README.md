@@ -19,7 +19,7 @@ This is a modern 3D interactive landing page built using React and Tailwind CSS
 ![alt text](./assets/chrome_OQcicwirL9.gif)
 
 ## 🔗 Live Demo
-(https://3d-app-topaz.vercel.app/)
+[View project](https://3d-app-topaz.vercel.app/)
 
 ## 📦 Installation
 
